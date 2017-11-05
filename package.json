@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wpk12345/nodeHangman#readme",
   "dependencies": {
+    "inquirer": "^3.3.0",
     "prompt": "^1.0.0"
   }
 }
