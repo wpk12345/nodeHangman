@@ -5,5 +5,4 @@ A Hangman Game That Runs in the Terminal
 ![image one](./readmeImages/two.png?raw=true "Title")
 ![image one](./readmeImages/three.png?raw=true "Title")
 ![image one](./readmeImages/four.png?raw=true "Title")
-![image one](./readmeImages/five.png?raw=true "Title")
 
